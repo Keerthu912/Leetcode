@@ -15,7 +15,7 @@
 |136.| [Single Number](https://leetcode.com/problems/single-number/)| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/136.%20Single%20Number)|
 |151.| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C++](https://github.com/Keerthu912/Leetcode/blob/main/Problems/151.%20Reverse%20Words%20in%20a%20String)|
 |189.| [Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/189.%20Rotate%20Array)|
-|191.| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|
+|191.| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/191.%20Number%20of%201%20Bits)|
 |217.| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/217.%20Contains%20Duplicate)|
 |242.|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/242.%20Anagram)|
 |344.| [Reverse String](https://leetcode.com/problems/reverse-string/) | [C](https://github.com/Keerthu912/Leetcode/blob/main/Problems/344.%20Reverse%20String) \| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/344.%20Reverse%20String%20II) |
