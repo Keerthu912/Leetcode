@@ -1,0 +1,10 @@
+class Solution {
+    public double average(int[] salary) {
+        double sum=0;
+        Arrays.sort(salary);
+        for(int crt=1; crt<salary.length-1; crt++)
+           sum += salary[crt];
+        
+        return sum/(salary.length - 2); 
+    }
+}
