@@ -19,7 +19,11 @@
 |217.| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/217.%20Contains%20Duplicate)|
 |242.|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/242.%20Anagram)|
 |344.| [Reverse String](https://leetcode.com/problems/reverse-string/) | [C](https://github.com/Keerthu912/Leetcode/blob/main/Problems/344.%20Reverse%20String) \| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/344.%20Reverse%20String%20II) |
+|345.| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [C++](https://github.com/Keerthu912/Leetcode/blob/main/Problems/345.%20Reverse%20Vowels%20of%20a%20String)|
 | 509.| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C](https://github.com/Keerthu912/Leetcode/blob/main/Problems/509.%20Fibonacci%20Number%20II) \| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/509.%20Fibonacci%20Number) 
+|557.| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C++](https://github.com/Keerthu912/Leetcode/blob/main/Problems/557.%20Reverse%20Words%20in%20a%20String%20III)|
+|704.| [Binary Search](https://leetcode.com/problems/binary-search/)|[C](https://github.com/Keerthu912/Leetcode/blob/main/Problems/704.%20Binary%20Search)|
+|724.| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)|[JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/724.%20Find%20Pivot%20Index)|
 |1108.| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/1108.%20Defanging%20an%20IP%20Address)|
 |1929.| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/1929.%20Concatenation%20of%20Array)|
 |2235.| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/2235.%20Add%20Two%20Integers)|
