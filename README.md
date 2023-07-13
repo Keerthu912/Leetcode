@@ -20,6 +20,7 @@
 |242.|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/242.%20Anagram)|
 |344.| [Reverse String](https://leetcode.com/problems/reverse-string/) | [C](https://github.com/Keerthu912/Leetcode/blob/main/Problems/344.%20Reverse%20String) \| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/344.%20Reverse%20String%20II) |
 |345.| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [C++](https://github.com/Keerthu912/Leetcode/blob/main/Problems/345.%20Reverse%20Vowels%20of%20a%20String)|
+|485.| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [C++](https://github.com/Keerthu912/Leetcode/blob/main/Problems/485.%20Max%20Consecutive%20Ones)|
 | 509.| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C](https://github.com/Keerthu912/Leetcode/blob/main/Problems/509.%20Fibonacci%20Number%20II) \| [JAVA](https://github.com/Keerthu912/Leetcode/blob/main/Problems/509.%20Fibonacci%20Number) 
 |557.| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C++](https://github.com/Keerthu912/Leetcode/blob/main/Problems/557.%20Reverse%20Words%20in%20a%20String%20III)|
 |704.| [Binary Search](https://leetcode.com/problems/binary-search/)|[C](https://github.com/Keerthu912/Leetcode/blob/main/Problems/704.%20Binary%20Search)|
